@@ -1,0 +1,7 @@
+c:\users\p305\source\repos\RETURN APP\RETURN APP\bin\Debug\RETURN APP.exe.config
+c:\users\p305\source\repos\RETURN APP\RETURN APP\bin\Debug\RETURN APP.exe
+c:\users\p305\source\repos\RETURN APP\RETURN APP\bin\Debug\RETURN APP.pdb
+c:\users\p305\source\repos\RETURN APP\RETURN APP\obj\Debug\RETURN APP.csprojResolveAssemblyReference.cache
+c:\users\p305\source\repos\RETURN APP\RETURN APP\obj\Debug\RETURN APP.csproj.CoreCompileInputs.cache
+c:\users\p305\source\repos\RETURN APP\RETURN APP\obj\Debug\RETURN APP.exe
+c:\users\p305\source\repos\RETURN APP\RETURN APP\obj\Debug\RETURN APP.pdb
